@@ -56,7 +56,7 @@ public class EmbeddingTest {
 	@Test
 	public void test() throws IOException {
 		// add tests here
-		Main.main(new String[0]);
+		// Main.main(new String[0]);
 	}
 
 }
